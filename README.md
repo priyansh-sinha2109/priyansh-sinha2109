@@ -162,11 +162,8 @@ Transforms natural-language prompts into functional, ready-to-use websites.
 
 
 ## 📈 My GitHub Contribution Activity
-
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansh-sinha2109&theme=react-dark&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
-
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -176,16 +173,6 @@ Transforms natural-language prompts into functional, ready-to-use websites.
 <div align="center">
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Developer Quote" />
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=priyansh-sinha2109&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories" />
 
 </div>
 
